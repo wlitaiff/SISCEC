@@ -1,0 +1,26 @@
+Data do erro.............: 15/02/2012      Hora: 20:05:17
+Mem¢ria para caracteres..: 198
+Erro a N¡vel Sistema DOS.: 0
+Nome do SubSistema.......: BASE
+Erro a N¡vel SubSistema..: 1002
+C¢digo do Erro Gen‚rico..: 15
+N§ Vezes da Falha........: 1
+N§ do Erro...............: 2
+Possibilita DEFAULT......: NAO
+Possibilita RETRY........: SIM
+Pos.Subst. Erro p/ Valor.: NAO
+
+Argumento Fun‡„o: 
+
+
+NIL
+ Fun‡”es com erro : 
+
+
+Fun‡„o: (b)ERRORSYS(35)  
+Fun‡„o: LOCKERRHAN(0)  
+Fun‡„o: (b)INITHANDL$(0)  
+Fun‡„o: AUTOBAIXAF(432)  
+Fun‡„o: ZOOM(799)  
+Fun‡„o: HBROWSEDB(593)  
+Fun‡„o: CECCP100(30)  

@@ -1,0 +1,26 @@
+Data do erro.............: 15/03/1999      Hora: 15:29:06
+Mem¢ria para caracteres..: 110
+Erro a N¡vel Sistema DOS.: 0
+Nome do SubSistema.......: BASE
+Erro a N¡vel SubSistema..: 1132
+C¢digo do Erro Gen‚rico..: 2
+N§ Vezes da Falha........: 0
+N§ do Erro...............: 2
+Possibilita DEFAULT......: NAO
+Possibilita RETRY........: NAO
+Pos.Subst. Erro p/ Valor.: NAO
+
+Argumento Fun‡„o: 
+
+
+NIL
+ Fun‡”es com erro : 
+
+
+Fun‡„o: (b)ERRORSYS(35)  
+Fun‡„o: LOCKERRHAN(0)  
+Fun‡„o: (b)INITHANDL$(0)  
+Fun‡„o: BAIXAAUTO(626)  
+Fun‡„o: ZOOM(732)  
+Fun‡„o: HBROWSEDB(552)  
+Fun‡„o: AUTOBAIXAF(458)  

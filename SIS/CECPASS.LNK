@@ -1,0 +1,16 @@
+# Sistemas de Controle de Estoque Comercial
+# W&R Informatica Ltda
+# 15 de Outubro de 1995
+# Roberto Falcao Rocha
+# Modulo "LINK" do cadastro de usuarios
+
+FILE    CECPASS
+FILE    OMENU3
+FILE    SARRAY
+FILE    STRING
+FILE    KEYBOARD
+FILE    WRLIB
+LIBRARY CLIPPER
+LIBRARY EXTEND
+LIBRARY FUNCKY50
+LIBRARY FUNCKY15

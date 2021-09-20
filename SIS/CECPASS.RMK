@@ -1,0 +1,17 @@
+// Sistemas de Controle de Estoque Comercial
+// W&R Informatica Ltda
+// 15 de Outubro de 1995
+// Roberto Falcao Rocha/Waldemir Litaiff
+// Modulo "MAKE" do cadastro de usuarios
+
+PASS  = CECPASS.OBJ WRLIB.OBJ OMENU3.OBJ SARRAY.OBJ KEYBOARD.OBJ STRING.OBJ 
+.prg.obj:
+ CLIPPER $* /N/W/A/M/Q/B
+CECPASS.OBJ  : CECPASS.PRG
+OMENU3.OBJ    : OMENU3.PRG
+SARRAY.OBJ   : SARRAY.PRG
+KEYBOARD.OBJ : KEYBOARD.PRG
+STRING.OBJ   : STRING.PRG
+WRLIB.OBJ   : WRLIB.PRG
+SIP.EXE : $(PASS)
+ RTLINK @CECPASS

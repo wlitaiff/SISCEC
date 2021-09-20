@@ -1,0 +1,1 @@
+//DATA---- No.DOC---- PARTNUMBER---- DESCRICAO---------------------------------------- O QUANTIDADE UN CUSTO---------- PRECO----------"    

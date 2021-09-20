@@ -1,0 +1,16 @@
+# Sistemas de Controle de Estoque Comercial
+# W&R Informatica Ltda
+# 14 de Outubro de 1995
+# Roberto Falcao Rocha
+# Modulo de "link" de geracao do sistema
+
+FILE    GERASYS
+FILE    OMENU2
+FILE    SARRAY
+FILE    STRING
+FILE    KEYBOARD
+FILE    WRLIB
+LIBRARY CLIPPER
+LIBRARY EXTEND
+LIBRARY FUNCKY50
+LIBRARY FUNCKY15

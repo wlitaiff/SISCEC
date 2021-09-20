@@ -1,0 +1,18 @@
+// Sistemas de Controle de Estoque Comercial
+// W&R Informatica Ltda
+// 14 de Outubro de 1995
+// Roberto Falcao Rocha/Waldemir Litaiff
+// Modulo de geracao do sistema
+
+SYS  = GERASYS.OBJ WRLIB.OBJ OMENU2.OBJ SARRAY.OBJ KEYBOARD.OBJ STRING.OBJ 
+
+.prg.obj:
+ CLIPPER $* /N/W/A/M/Q/B
+GERASYS.OBJ  : GERASYS.PRG
+OMENU2.OBJ   : OMENU2.PRG
+SARRAY.OBJ   : SARRAY.PRG
+KEYBOARD.OBJ : KEYBOARD.PRG
+STRING.OBJ   : STRING.PRG
+WRLIB.OBJ    : WRLIB.PRG
+GERASYS.EXE  : $(SYS)
+ RTLINK @GERASYS
